@@ -1,0 +1,6 @@
+name: CreateTimer
+version: '1.0.0'
+main: com.hinaplugin.createTimer.CreateTimer
+api-version: '1.21'
+authors: [ hina2113 ]
+description: かめぱプラグイン講座のコード資料

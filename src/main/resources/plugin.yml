@@ -4,3 +4,11 @@ main: com.hinaplugin.createTimer.CreateTimer
 api-version: '1.21'
 authors: [ hina2113 ]
 description: かめぱプラグイン講座のコード資料
+
+commands:
+  timer:
+    permission: timer.commands
+
+permissions:
+  timer.commands:
+    default: true
